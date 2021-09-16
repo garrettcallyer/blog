@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Favorite Netflix Shows
+title: Favorite Shows
 permalink: /favorite_shows/
 ---
 
