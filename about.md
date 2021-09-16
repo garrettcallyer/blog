@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, I am Garrett Collier. I am junior Computer Science major at Hendrix College.
+In my free time, I enjoy programming, playing basketball, and watching Youtube/Netflix.
+I really enjoy NBA basketball and watching my favorite team, the Oklahoma City Thunder.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+![Picture of Me](\Users\garre\LocalGithub\csci340\blog\Picture_Garrett.png)
