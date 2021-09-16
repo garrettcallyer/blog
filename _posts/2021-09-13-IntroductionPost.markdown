@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Introduction Post"
+author: Garrett Collier
 date:   2021-09-13 11:15:48 -0500
 categories: Blog Setup Experience
 ---
