@@ -12,12 +12,12 @@ A few parts that were new to me included:
 - locating minima using command line
 - changing layouts using minima and command line
 
-![NEW](./_posts/post_pictures/New.png)
+![NEW]({{site.baseurl}}/pictures/New.png)
 
 What parts did you struggle with? <br>
 I struggled with adding images at first because I didn't know which directory to put images in and how to link them. Also, I didn't know how to copy and locate files, so I had to use some trial and error when attempting to use the ["bundle info --path minima"](https://jekyllrb.com/docs/themes/) command.
 
-![Pushing a rock](./_posts/post_pictures/rock_pushing.jpg)
+![Pushing a rock]({{site.baseurl}}/pictures/rock_pushing.jpg)
 
 What parts still do not make sense? <br>
 I still can't figure out how to use the local repo to make changes instead of using the commits through Github and having to wait a few minutes to view changes on the public site. I'll be meeting with Dr. Goadrich to discuss this further.
