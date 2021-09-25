@@ -19,6 +19,6 @@ What are some complications that you could encounter implementing this model?<br
 
 A primary and foriegn key issue with the pieces explained above. The website would only make sense to me if item_id was like a global parameter or variable that anyone could access. That way everyone could access an item and see how much of it was left. I think another issue that could arise would be the pickup and delivered data types and just how much the order entity has to keep track of. I couldn't figure out an easier way to account for all the ways to get the groceries, the instructions for the groceries, the time and date of the order when finalized, as well as the substitution of different items. This may cause issues with space and put a burden on a single entity, but I also may be overthinking the process if I were to implement this.
 
-![Vertabelo Database]({{site.baseurl}}/pictures/Vertabelo_Sample_Database.jpeg)
+![Vertabelo Database]({{ site.baseurl }}/pictures/Vertabelo_Sample_Database.jpg)
 
-![Lucidchart Entity Relationship]({{site.baseurl}}/pictures/Lucidchart_Entity_Relationship.jpeg)
+![Lucidchart Entity Relationship]({{ site.baseurl }}/pictures/Lucidchart_Entity_Relationship.jpg)
