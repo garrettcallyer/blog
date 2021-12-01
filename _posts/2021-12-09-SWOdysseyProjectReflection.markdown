@@ -1,18 +1,15 @@
 ---
 layout: post
-title:  "2nd Client Meeting Reflection"
+title:  "SW Odyssey Reflection"
 author: Garrett Collier
-date:   2021-10-27 08:23:00 -0500
+date:   2021-12-09 08:23:00 -0500
 categories: Arkansas Asset Builders
 ---
-Personal role in your team project so far <br>
 
-I am primarily working with the database and schema using the SQLite and querying we have learned to better equip myself for the final.
+What skills and talents are most valuable in carrying out the social change work you are doing with your community partner? How well do those skills mesh with the talents or limitations you have come to see in yourself through the experience?
 
-Contribution to the second client meeting <br>
+Consider the social, environmental, or spiritual need on which you are focusing for this Odyssey project. Do you feel that the approaches to creating social change employed by your community partner are effective ways of creating change in this area? Why or why not?
 
-I discussed with Professor Yorgey her impressions of the schema and what she wanted to be able to query and change in the tables to then be able to export. I also helped to explain the moqup and what we imagine her UI to look like to see if she had the same ideas or different ones. I also messaged Professor Yorgey primarily to help get the meeting set up.
+Have any of your fundamental values, social ideals, or significant beliefs been challenged or confirmed through this experience? Have you found any of your academic coursework helpful in understanding what you have observed and experienced? Anything you learned in class that you would directly challenge now that you have had this experience?
 
-Future plans to assist your team in completing this project <br>
-
-I am planning to get more and more familiar with the Razor Pages and Entity Relationships over the many different classes and folders to have the best possible understanding of what is to come for this final project. I want to be as prepared as possible for the many differing tables and overall database we are trying to implement and do m best to understand and fix any bugs that occur with the help of my team members.
+There are many social, political, environmental, or community issues on which you might work in the years ahead. How has this experience reshaped your views on the public issues that call you to action?
